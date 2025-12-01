@@ -1,0 +1,5 @@
+run scripts in this order:
+producer and consumer simultaneously 
+sentiment analysis.py
+embedding.py
+dashboard.py
