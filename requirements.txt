@@ -1,0 +1,12 @@
+quixstreams
+duckdb
+pandas
+numpy
+sentence-transformers
+websocket-client
+nltk
+dash
+plotly
+WordCloud
+io
+base64
