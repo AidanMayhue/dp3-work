@@ -1,5 +1,5 @@
-run scripts in this order:
-producer and consumer simultaneously 
-sentiment analysis.py
-embedding.py
-dashboard.py
+## Run scripts in this order:
+1) producer and consumer simultaneously 
+2) embedding.py
+3) sentiment analysis.py
+4) dashboard.py
