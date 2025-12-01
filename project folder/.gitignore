@@ -1,0 +1,4 @@
+*.duckdb
+*.walvenv/
+*.npz
+*.duckdb.walevents.duckdbbluesky_embeddings.npz
